@@ -1,6 +1,6 @@
 [![Video](readme.mp4)
 
-![Alt Text](screenshot)
+![Alt Text](screenshot) (look in folder)
 
 
 
