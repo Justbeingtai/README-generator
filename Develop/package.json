@@ -1,14 +1,24 @@
 {
-  "name": "static-site",
+  "name": "readme-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "a node application that creates a professional readme based on user input criteria",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Justbeingtai/README-generator.git"
+  },
+  "author": "Tai Ho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Justbeingtai/README-generator/issues"
+  },
+  "homepage": "https://github.com/Justbeingtai/README-generator#readme",
   "dependencies": {
-    "inquirer": "^6.3.1"
+    "axios": "^0.19.2",
+    "inquirer": "^7.1.0",
+    "util": "^0.12.3"
   }
 }
